@@ -3,7 +3,6 @@
 An AI-powered accident detection system that uses **Computer Vision** and **Deep Learning** to identify road accidents from video footage. When an accident is detected, the system automatically sends emergency SMS alerts to the **nearest hospital**, **police authorities**, and emergency contacts using the **Twilio API**, enabling faster emergency response.
 
 ## ✨ Features
-
 * 🎥 Detects road accidents from video footage.
 * 🖼️ Extracts frames from accident and non-accident videos for model training.
 * 🤖 Deep learning-based accident classification.
@@ -14,7 +13,6 @@ An AI-powered accident detection system that uses **Computer Vision** and **Deep
 * 📊 Can be extended for real-time CCTV surveillance.
 
 ## 🛠️ Technologies Used
-
 * Python
 * OpenCV
 * TensorFlow / Keras
