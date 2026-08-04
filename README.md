@@ -33,7 +33,6 @@ An AI-powered accident detection system that uses **Computer Vision** and **Deep
    * Notify emergency contacts via Twilio.
 
 ## Future Enhancements
-
 * GPS location sharing.
 * Live CCTV accident detection.
 * Emergency call automation.
