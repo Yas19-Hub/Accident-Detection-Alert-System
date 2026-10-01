@@ -10,7 +10,6 @@ An AI-powered accident detection system that uses **Computer Vision** and **Deep
 * 🏥 Notifies nearby hospitals.
 * ⚡ Helps reduce emergency response time.
 * 📊 Can be extended for real-time CCTV surveillance.
-
 ## 🛠️ Technologies Used
 * Python
 * OpenCV
