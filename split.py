@@ -9,7 +9,7 @@ CLASSES = ["positive", "negative"]
 TRAIN_SPLIT = 0.7
 VAL_SPLIT = 0.2
 TEST_SPLIT = 0.1
-//test
+
 def ensure_dir(path):
     if not os.path.exists(path):
         os.makedirs(path)
